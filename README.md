@@ -1,3 +1,3 @@
-   # Coursera Crash Course On Python
+   # _Coursera Crash Course On Python_
 
    ## 	Final Project - Word Cloud
